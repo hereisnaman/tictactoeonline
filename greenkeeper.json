@@ -1,0 +1,9 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "ace-builds/package.json"
+      ]
+    }
+  }
+}
